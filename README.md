@@ -2,7 +2,6 @@
 
 <p align="center">
   <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=nickyang4github&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 
 > A programmer who is passionate about technologies and open source.
